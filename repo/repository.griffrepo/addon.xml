@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<addon version="0.1.4" id="repository.griffrepo" name=" [COLOR aliceblue]The Griff Build Repository[/COLOR]" provider-name="GURU">
+        <extension point="xbmc.addon.repository" name="The Griff Build Repository">
+            <info compressed="false">http://raw.github.com/k33py/repository.griffrepo/master/addons.xml</info>
+            <checksum>http://raw.github.com/k33py/repository.griffrepo/master/addons.xml.md5</checksum>
+            <datadir zip="true">http://raw.github.com/k33py/repository.griffrepo/master/repo/</datadir>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Griff Repository</summary>
+            <description>Griff Repository - you will find our wizard along with some other addons</description>
+            <platform>all</platform>
+    </extension>
+</addon>

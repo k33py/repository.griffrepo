@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+    <addon id="repository.griffrepo" name=" [COLOR abbey]Griff Repository[/COLOR]" version="0.1.3" provider-name="Guru">
+        <extension point="xbmc.addon.repository" name="Griff Repository">
+            <info compressed="false">https://raw.githubusercontent.com/k33py/repository.griffrepo/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/k33py/repository.griffrepo/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/k33py/repository.griffrepo/master/zips/</datadir>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Griff Repository</summary>
+            <description>Griff Repository - hosting for addons</description>
+            <platform>all</platform>
+    </extension>
+</addon>
